@@ -2,7 +2,7 @@
 
 🚀 DevOps Engineer | Microsoft Certified | Cloud & Automation Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gowtham%20L%20Sharma-blue?logo=linkedin)](https://www.linkedin.com/in/gowtham-l-sharma-311319126)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gowtham%20L%20Sharma-blue?logo=linkedin)](https://www.linkedin.com/in/gowthamsharma-cloudplatformengineer)
 [![Credly](https://img.shields.io/badge/Credly-Microsoft%20Certifications-0078D4?logo=microsoft)](https://www.credly.com/users/gowtham-sharma)
 ---
 
